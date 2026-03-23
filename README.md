@@ -43,12 +43,12 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wsistgu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsistgu&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wisestgu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wisestgu&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsistgu&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisestgu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -75,5 +75,5 @@
 ## 👀 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wsistgu&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=wisestgu&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
